@@ -1,6 +1,5 @@
-(() => {
-    function greeting(name) {
-        return `Hello, ${name}! Welcome to JavaScript.`;
-    }
-    console.log(greeting("Mostofa Kamal Joy"));
-})();
+function greeting(name) {
+    console.log(`Hello, ${name}! Welcome to JavaScript.`);
+}
+
+greeting("Mostofa Kamal Joy");
