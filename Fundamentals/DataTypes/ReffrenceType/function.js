@@ -1,5 +1,6 @@
-function greeting(name) {
-    console.log(`Hello, ${name}! Welcome to JavaScript.`);
+function greet(person) {
+    console.log(`Hello, ${person}! Welcome to JavaScript.`);
 }
 
-greeting("Mostofa Kamal Joy");
+
+greet("Mostofa Kamal Joy");
