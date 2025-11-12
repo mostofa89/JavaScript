@@ -13,6 +13,7 @@ let dog = new Animal("Buddy", "Dog");
 console.log(dog.name);    // Output: Buddy
 console.log(dog.species); // Output: Dog
 
+
 let cat = new Animal("Whiskers", "Cat");
 console.log(cat.name);    // Output: Whiskers
 console.log(cat.species); // Output: Cat
